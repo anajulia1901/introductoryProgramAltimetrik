@@ -18,6 +18,5 @@ GitHub is the tool used to host repositories online.
 ### GIT BRANCHING
 
 - New branch documentation
-- One branch per feature
-- test
-- test 2
+- conflit on porpuse
+
