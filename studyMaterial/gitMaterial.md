@@ -1,8 +1,14 @@
 # GIT MATERIAL
 
-### This document contains the matererial used to learn git
+### GIT VS GITHUB
 
-I used:
+Git is used for traking code changes.
+GitHub is the tool used to host repositories online.
 
-- Google
-- Test
+### GIT COMMANDS
+
+- Clone (from the internet to your computer)
+- Add(add the changes to the main version)
+- Commit(save files in Git)
+- Push(upload the files)
+- Pull(downoad changes to your local machine)
