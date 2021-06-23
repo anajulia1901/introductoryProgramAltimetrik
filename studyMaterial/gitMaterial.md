@@ -17,6 +17,11 @@ GitHub is the tool used to host repositories online.
 
 ### GIT BRANCHING
 
-- New branch documentation
-- conflit on porpuse
+- Git checkout (move between branches)
+- Git checkout -b nombre(create new branch with the name "nombre")
+- Git nerge( merges locally)
+- Git reset -- hard (get rid of changes up to a certain point)
 
+### Pull Recuest
+
+- Es una petición para integrar nuestras propuestas o cambios de código a un proyecto
